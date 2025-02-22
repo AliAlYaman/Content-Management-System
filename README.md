@@ -50,3 +50,4 @@ Follow these steps to set up the CMS locally:
    php artisan key:generate
    php artisan migrate --seed
    php artisan serve
+   ```
