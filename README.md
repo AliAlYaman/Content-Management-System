@@ -33,7 +33,7 @@ A robust and scalable Content Management System built with **Laravel** for manag
 
 Below is the database schema for the CMS:
 
-![Database Schema](images\schema.png)
+![Database Schema](https://github.com/AliAlYaman/Content-Management-System/blob/6fa98009b143e7235d73a597b4cc05d4e11c9469/images/schema.png)
 
 ---
 
